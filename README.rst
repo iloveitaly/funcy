@@ -4,8 +4,8 @@ Funcy |Build Status|
 A collection of fancy functional tools focused on practicality.
 
 Inspired by clojure, underscore and my own abstractions. Keep reading to get an overview
-or `read the docs <http://funcy.readthedocs.org/>`_.
-Or jump directly to `cheatsheet <http://funcy.readthedocs.io/en/stable/cheatsheet.html>`_.
+or `read the docs <https://funcy.readthedocs.io/>`_.
+Or jump directly to `cheatsheet <https://funcy.readthedocs.io/en/stable/cheatsheet.html>`_.
 
 Works with Python 3.4+ and pypy3.
 
@@ -155,7 +155,7 @@ Ease debugging:
     # 10.2 ms in Creating models
 
 
-And `much more <http://funcy.readthedocs.org/>`_.
+And `much more <https://funcy.readthedocs.io/>`_.
 
 
 Dive in

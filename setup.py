@@ -14,7 +14,7 @@ setup(
     description='A fancy and practical functional tools',
     long_description=README,
     long_description_content_type="text/x-rst",
-    url='http://github.com/Suor/funcy',
+    url='https://github.com/Suor/funcy',
     license='BSD',
 
     packages=['funcy'],
