@@ -21,6 +21,20 @@ jobs:
         flake8 funcy
         flake8 --select=F,E5,W tests
 
+  types:
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+    - name: Run pyright
+      run: |
+        pip install pyright typing-extensions
+        pip install -e .
+        pyright tests/test_typing.py
+
   docs:
     runs-on: ubuntu-22.04
     steps:
