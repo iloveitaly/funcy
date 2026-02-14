@@ -7,7 +7,7 @@ Usage: <a onmouseover="nhpup.popup('popup text' [, {'class': 'myclass', 'width':
 The configuration dict with CSS class and width is optional - default is class .pup and width of 200px.
 You can style the popup box via CSS, targeting its ID #pup.
 You can escape " in the popup text with &quot;.
-Tutorial and support at http://nicolashoening.de?twocents&nr=8
+Tutorial and support at https://nicolashoening.de?twocents&nr=8
 --------------------------------------------------------------------------
 
 The MIT License (MIT)

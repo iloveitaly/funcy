@@ -12,4 +12,4 @@ Start with:
 
 .. include:: ../README.rst
     :start-after: --------------
-    :end-before: And `much more <http://funcy.readthedocs.org/>`_.
+    :end-before: And `much more <https://funcy.readthedocs.io/>`_.
